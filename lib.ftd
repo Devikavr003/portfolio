@@ -369,7 +369,7 @@ string url-3:
 align-self: center
 align-content: center
 width: fill-container
-margin-vertical.vh: 6
+margin-vertical.vh: 9
 
 -- ftd.row:
 width.fixed.percent: 90
