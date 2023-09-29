@@ -178,7 +178,7 @@ color: white
 if: { !header-mobile.open }
 src: $assets.files.assets.hamburger-menu.svg
 height.fixed.px: 32
-align-self: center
+align-self: right
 $on-click$: $ftd.set-bool($a = $header-mobile.open, v = true)
 
 -- ftd.image: 
